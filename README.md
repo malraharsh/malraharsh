@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
-_Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You can see my work down below. I love to code in JavaScript (Currently an intermediate in JS 😅). I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello there this is **Harsh Malra**._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
 <a href="https://twitter.com/NaN_dwivedi"><img height="30" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
@@ -16,7 +16,7 @@ _Hello there this is **Ashutosh Dwivedi**. A **Full Stack Web Developer**. You c
 
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&theme=rogue&area=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=malraharsh&theme=rogue&area=true" width="100%">
 </a>
 </p>
 
